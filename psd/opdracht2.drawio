@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram id="PfRoZrBP7EvUt3IAHAfU" name="Page-1">
+        <mxGraphModel dx="734" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Deur uitlopen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="80" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Besluiten koffiemelk mogelijkheid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="80" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Door de hal richting buren" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="120" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Koffie aannemen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="120" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Aanbellen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="160" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Naar koelkast lopen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="160" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Vragen voor koffiemelk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="200" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Koffiemelk uit koelkast halen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="200" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Koffie aangeven" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="240" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Koffiemelk in de koffie doen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="240" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Koffie met koffiemelk aannemen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="320" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Koffiemelk terugplaatsen in koelkast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="280" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Koffiemelk met koffie aangeven" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="320" width="320" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

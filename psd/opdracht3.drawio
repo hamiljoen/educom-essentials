@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="PfRoZrBP7EvUt3IAHAfU" name="Page-1">
+        <mxGraphModel dx="734" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-indent: -18.0pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;symbol&amp;#34;&quot;&gt;&lt;span style=&quot;font-stretch: normal ; font-size: 7pt ; line-height: normal ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;Ik loop van het perron richting de automaat&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="-560" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Ik bekijk de keuzes van de automaat en zoek Snickers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="-520" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Ik start de contactloos betalen optie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="-480" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="ik maak de keuze en druk de cijfers va nde Snickeres in" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="-440" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Ik pak mijn smartphone en betaal met mijn bankpas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="-400" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Nadat de transacite geluk is kijk ik hoe de reep in de bak valt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="-360" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Ik pak de snickers reep uit de bak" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="-320" width="360" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

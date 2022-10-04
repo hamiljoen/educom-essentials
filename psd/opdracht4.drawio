@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="PfRoZrBP7EvUt3IAHAfU" name="Page-1">
+        <mxGraphModel dx="734" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Ik pak een kopje uit de koelkast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="80" width="350" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Ik zet het kopje op de juiste plek onder de automaat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="120" width="350" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Ik bekijk de verschillende keuzes warme dranken" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="160" width="350" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Ik maak een keuze een selecteer ´cappuccino´" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="200" width="350" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Ik wacht tot de bereiding klaar is" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="240" width="350" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Ik haal het kopje onder de machine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="280" width="350" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
