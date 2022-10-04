@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="PfRoZrBP7EvUt3IAHAfU" name="Page-1">
+        <mxGraphModel dx="734" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="18" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="100" y="30" width="470" height="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Opstaan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="18">
+                    <mxGeometry width="470" height="57.77777777777778" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="90° rechts draaien&amp;nbsp;" style="rounded=0;fillColor=default;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="18">
+                    <mxGeometry y="57.77777777777778" width="470" height="57.77777777777778" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;4 stappen vooruit lopen&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="18">
+                    <mxGeometry y="115.55555555555556" width="470" height="57.77777777777778" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;90° links draaien&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="18">
+                    <mxGeometry y="173.33333333333334" width="470" height="57.77777777777778" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="5 stappen vooruit lopen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="18">
+                    <mxGeometry y="231.11111111111111" width="470" height="57.77777777777778" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="90° rechts draaien" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="18">
+                    <mxGeometry y="288.88888888888886" width="470" height="57.77777777777778" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="3 verdiepingen trap aflopen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="18">
+                    <mxGeometry y="346.6666666666667" width="470" height="57.77777777777778" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="bocht naar links om de hoek maken" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="18">
+                    <mxGeometry y="404.44444444444446" width="470" height="57.77777777777778" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="recht vooruit door voordeur lopen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="18">
+                    <mxGeometry y="462.22222222222223" width="470" height="57.77777777777778" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
